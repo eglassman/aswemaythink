@@ -2,7 +2,7 @@
 
 ###### **Stories at the Human-Machine Boundary**
 
-### Another podcast?
+### Yet Another Podcast?
 
 I got a real kick out of explaining the Swype keyboard to my cab driver while on my way to UIST, where the Swype keyboard was first published. Just as I enjoy designers like the folks behind 99% Invisible explaining design stories to me, I'd like to share the insights and stories behind the ways we communicate with computers.
 
