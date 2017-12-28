@@ -31,6 +31,7 @@ Host \[studio\]: Today, I’m going to talk about FF--how it was invented, and h
 1. Swype keyboard \(initial paper, how it eventually became standard\)
 2. Pinch to zoom \(mechanism behind it--multi-touch screens\)
 3. Faceted browsing \(interview Marti\)
+4. Bing assistant from Blueprint \(follow-up with SRK\)
 
 
 
