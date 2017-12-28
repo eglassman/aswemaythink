@@ -26,6 +26,11 @@ Host \[in the wild\]:** **“Do you remember how you \[accomplished FF\_opp / so
 
 Host \[studio\]: Today, I’m going to talk about FF--how it was invented, and how it became a part of our lives.
 
-  
+### Possible Episodes
+
+1. Swype keyboard \(initial paper, how it eventually became standard\)
+2. Pinch to zoom \(mechanism behind it--multi-touch screens\)
+3. Faceted browsing \(interview Marti\)
+
 
 
