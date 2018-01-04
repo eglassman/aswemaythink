@@ -2,7 +2,7 @@
 
 ### Sources
 
-1. Primary source \(inventor\): "The Story of ShapeWriter and Gesture Keyboards" http://pokristensson.com/gesturekeyboard.html
+1. Primary source \(inventor\): "The Story of ShapeWriter and Gesture Keyboards" [http://pokristensson.com/gesturekeyboard.html](http://pokristensson.com/gesturekeyboard.html)
 
 ### Key Publications
 
